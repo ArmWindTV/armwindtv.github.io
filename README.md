@@ -1,2 +1,1 @@
-# armwindtv.github.io
-# link home.htm
+http://armwindtv.github.io/Welcome%20Page.htm
